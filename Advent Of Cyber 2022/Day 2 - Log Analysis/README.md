@@ -1,4 +1,7 @@
-## The Story
+![dag2](https://user-images.githubusercontent.com/84150540/207583360-5f029d78-4b23-4fb7-a4bd-1a289b329071.png)
+
+## The Story!
+
 
 Santa’s Security Operations Center (SSOC) has noticed one of their web servers, santagift.shop has been hijacked by the Bandit Yeti APT group. Elf McBlue’s task is to analyse the log files captured from the web server to understand what is happening and track down the Bandit Yeti APT grou
 
