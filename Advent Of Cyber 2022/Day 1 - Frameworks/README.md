@@ -1,3 +1,5 @@
+![dag1](https://user-images.githubusercontent.com/84150540/207583448-7ae36a00-4bc8-482f-87fc-fd9f4d6799e0.png)
+
 # Best Festival Company Compromised - The Story
 Someone is trying to stop Christmas this year and stop Santa from delivering gifts to children who were nice this year. The Best Festival Company’s website has been defaced, and children worldwide cannot send in their gift requests. There’s much work to be done to investigate the attack and test other systems! The attackers have left a puzzle for the Elves to solve and learn who their adversaries are. McSkidy looked at the puzzle and recognised some of the pieces as the phases of the Unified Kill Chain, a security framework used to understand attackers. She has reached out to you to assist them in recovering their website, identifying their attacker, and helping save Christmas.
 
