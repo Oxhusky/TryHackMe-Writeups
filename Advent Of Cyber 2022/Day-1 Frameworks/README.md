@@ -19,7 +19,7 @@ We can see there is a puzzle which we need to solve so let's start:
 6. I am set up to let you back into the network after you leave: **Persistence**
 7. Deletion of evidence is part of my process: **Defense Evasion**
 8. Communication with the compromises goes through me: **Command & Control**
-9. 
+
 ![1-1](https://user-images.githubusercontent.com/84150540/207558966-68996ea8-108d-422f-bace-d9521074a7e4.png)
 
 ## Puzzle 2:
@@ -29,7 +29,7 @@ We can see there is a puzzle which we need to solve so let's start:
 4. My payloads are triggered to infect all they come in contact with: **Execution**
 5. Passwords I collect are the keys to the mainframe: **Credential Access**
 6. Side to side, machine to machine, we hop: **Lateral Movement**
-7. 
+
 ![2-2](https://user-images.githubusercontent.com/84150540/207559087-cb195d5e-2194-4306-8e65-a913732ccb1f.png)
 
 
@@ -40,7 +40,7 @@ We can see there is a puzzle which we need to solve so let's start:
 3. I export gathered treasures: **Exfiltration**
 4. With me, your reputation goes tumbling down: **Impact**
 5. Goals set, goals attained. I win: **Objectives**
-6. 
+
 ![3-3](https://user-images.githubusercontent.com/84150540/207559172-1a0392a6-de12-4d77-945b-e9d0bed61ece.png)
 
 We can now see who is the culprit of this all 
